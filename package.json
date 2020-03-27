@@ -1,0 +1,20 @@
+{
+  "name": "vue-ar-image",
+  "version": "1.0.0",
+  "description": "An image container with a fixed aspect ratio",
+  "main": "VueArImage.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "aspect",
+    "ratio",
+    "image"
+  ],
+	"dependencies": {
+		"apl-vue-ar-container": "^1.0.0"
+	},
+  "author": "Antonio Primera",
+  "license": "ISC"
+}
