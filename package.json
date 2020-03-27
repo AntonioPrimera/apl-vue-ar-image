@@ -1,5 +1,5 @@
 {
-  "name": "vue-ar-image",
+  "name": "apl-vue-ar-image",
   "version": "1.0.0",
   "description": "An image container with a fixed aspect ratio",
   "main": "VueArImage.vue",
